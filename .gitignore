@@ -8,3 +8,5 @@ field
 t.py
 test.py
 test1.py
+auth/__pycache__/
+auth/__init__.py
